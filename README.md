@@ -1,2 +1,2 @@
 # mandarin
-Mirrors efforts to learn the mandarin language.
+Mirrors personal efforts to learn the mandarin language.
