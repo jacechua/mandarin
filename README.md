@@ -1,2 +1,2 @@
 # Mandarin
-A dictionary of Chinese characters and their English meanings.
+Chinese characters and their English meanings in CSVs
