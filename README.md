@@ -1,2 +1,2 @@
 # Mandarin
-A dictionary of Chinese characters and their English meanings.
+This repository contains a dictionary of Chinese characters and their English meanings.
